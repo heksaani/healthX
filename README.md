@@ -125,4 +125,4 @@ Key design choices and their reasoning are recorded in [`docs/decisions/`](docs/
 
 ## License
 
-<!-- TODO: Pick a license (e.g. MIT) and add a LICENSE file. -->
+This project is licensed under the [MIT License](LICENSE).
